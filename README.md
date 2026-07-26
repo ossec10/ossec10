@@ -12,6 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://tn.linkedin.com/company/open-source-software-ensi-club)
 
 <img src="assets/mascot-neutral.png" align="left" width="150" style="margin-right: 20px"/>
+
 We are the **cybersecurity-focused** student club of ENSI, La Manouba, Tunisia. We promote open-source culture among engineering students through knowledge sharing, workshops hands-on training and CTFs. We organize **TuniHack**, Tunisia's leading student hackathon.
 
 <br clear="left"/>
