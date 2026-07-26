@@ -1,7 +1,7 @@
 
 
 
-# Hi there, we are OSSEC! (Open Source software ENSI Club)  💙 
+# Hi there, we are OSSEC! (Open Source Software ENSI Club)  💙 
 
 <img src="assets/logo-primary.png" align="right" width="80" style="margin-left: 20px"/> 
 
