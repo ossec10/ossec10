@@ -1,9 +1,9 @@
-<img src="assets/logo-primary.png" align="right" width="80" style="margin-left: 20px"/> 
 
 
 
 # Hi there, we are OSSEC! 💙
 
+<img src="assets/logo-primary.png" align="right" width="80" style="margin-left: 20px"/> 
 
 
 
