@@ -7,7 +7,7 @@
 
 
 
-[![Website](https://img.shields.io/badge/WEBSITE-ossec.tn-2A7999?style=for-the-badge)](https://ossec.tn)
+[![Website](https://img.shields.io/badge/WEBSITE-ossec.tn-2A7999?style=for-the-badge)](https://ossec.me)
 [![Facebook](https://img.shields.io/badge/FACEBOOK-CONNECT-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/ossec.tn)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://tn.linkedin.com/company/open-source-software-ensi-club)
 
